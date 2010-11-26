@@ -2,5 +2,5 @@
 <resources>
     <string name="hello">Hello World, BlockSynth!</string>
     <string name="app_name">BlockSynth</string>
-    <string name="selfDestruct">BlockSynth</string>
+    <string name="self_destruct">BlockSynth</string>
 </resources>
